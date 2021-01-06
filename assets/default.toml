@@ -1,0 +1,5 @@
+[foo]
+  words = "Hello from config.toml > foo > words"
+
+[bar]
+  number = 12345
