@@ -18,6 +18,7 @@ TODO:
 ## Ref
 
 - https://github.com/rakyll/statik
+- https://github.com/rakyll/statik/tree/master/example
 - みんなの Go 言語 p.41-43
 - https://text.baldanders.info/golang/using-statik-package/
 - https://songmu.jp/riji/entry/2019-03-24-statik.html
