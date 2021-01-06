@@ -5,4 +5,5 @@ gen:
 
 .PHONY: test1
 test1: gen
-	go run ./main.go
+	go build -o bin/a.out \
+	&& ./bin/a.out
